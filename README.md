@@ -1,5 +1,5 @@
 # README
-
+[![Build Status](http://circleci-badges-max.herokuapp.com/img/alexandradlg/triumvirat-app?token=)](https://circleci.com/gh/alexandradlg/triumvirat-app)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
