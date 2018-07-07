@@ -19,7 +19,12 @@ gem 'coffee-rails', '~> 4.2'
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+gem "font-awesome-rails"
+gem "font-ionicons-rails"
 gem 'jbuilder', '~> 2.5'
+gem 'jquery'
+gem 'jquery-rails'
+gem 'material_icons'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
@@ -58,7 +63,6 @@ end
 
 group :test do
   gem 'capybara'
-  gem "nyan-cat-formatter"
   gem 'poltergeist'
   gem "rspec_junit_formatter"
   gem 'safe_attributes'
